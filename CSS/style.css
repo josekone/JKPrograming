@@ -168,7 +168,7 @@ footer .wave {
   left: 0;
   width: 100%;
   height: 100px;
-  background: url(/JKPrograming/Image/wave.png);
+  background: url("/JKPrograming/Image/wave.png");
   background-size: 1000px 100px;
 }
 
